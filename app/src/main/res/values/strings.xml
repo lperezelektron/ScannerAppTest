@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScannerApp</string>
+    <string name="operatorTitle">Operator</string>
+    <string name="itemTitle">Item</string>
+    <string name="locationTitle">Location</string>
+    <string name="quantityTitle">Qty</string>
+</resources>
